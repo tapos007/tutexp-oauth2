@@ -1,0 +1,16 @@
+{
+    "name": "tutexpsoft/oauth2redis",
+    "description": "Oauth2 implementation redis in laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "tapos",
+            "email": "tapos.aa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "predis/predis": "^1.1",
+        "phpseclib/phpseclib": "^2.0"
+    }
+}
